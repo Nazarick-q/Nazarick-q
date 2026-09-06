@@ -5,7 +5,7 @@ Tomas Parra (Nazarick)                                                     ⠀�
 ——————                                                                     ⠀⠀⠀⠀⠀⡯⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠹⡄⠘⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ⠀
                                                                            ⠀⠀⠀⠀⢸⠁⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⢱⡀⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ⠀
 Description: Software Developer & Self-Taught Creative                     ⠀⠀⠀⠀⢸⡄⢸⡀⠀⠀⠀⠀⠀⢀⣀⡤⠤⠤⠔⠒⠒⠲⠤⠤⢄⣀⡇⠀⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠀⠀
-Uptime: 3 años (935c)                                                      ⠀⠀⠀⠀⠸⡇⠀⣇⠀⢀⡠⠖⠋⠁⠄⠒⠤⣄⣀⠀⠒⠂⠀⠀⠀⠈⡟⠀⠀⢺⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠀
+Uptime: 3 años (935d)                                                      ⠀⠀⠀⠀⠸⡇⠀⣇⠀⢀⡠⠖⠋⠁⠄⠒⠤⣄⣀⠀⠒⠂⠀⠀⠀⠈⡟⠀⠀⢺⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠀
 Host: University of Antioquia #UdeA (Colombia)                             ⠀⠀⠀⠀⠀⢳⢆⠘⣖⠋⠀⠀⠀⠠⡊⠋⠀⠀⠀⠉⠲⡦⣄⡀⠀⠘⢁⠀⠀⠘⠛⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠀
 Kernel: Learning Systems, Automation, GameDev                              ⠀⠀⠀⠀⡴⠃⢇⠑⠄⠈⢢⡀⣰⠁⠀⡜⢆⠀⠀⠀⠀⢳⠀⣷⡀⠀⠀⠀⠈⢢⣸⠁⠀⠹⡄⠀⠀⠀⠀⠀⠀     ⠀
                                                                            ⠀⠀⠀⣸⢡⠀⠘⡄⠀⠀⠀⠹⠃⠀⠰⠁⢸⣆⡄⠀⠀⠀⢇⠸⣣⠀⠀⣀⠐⣦⡹⠲⠀⠀⠘⡄⠀⠀⠀⠀⠀⠀     
@@ -18,8 +18,8 @@ Tools.Frontend: HTML, CSS, JS, React                                       ⠀�
 Tools.Backend: Spring Boot, Node.js, Django, PostgreSQL                    ⢠⠻⠀⠃⠀⠀⢻⡄⠀⠀⠀⣿⠴⣿⡻⡇⠀⡠⢰⡆⠀⡸⠀⢸⡼⠀⠀⠙⠛⠋⠀⡇⡀⠀⢸⠀⠀⠀⠀⢉⡇   ⠀
                                                                            ⢸⢸⢸⡄⠀⠀⠈⣇⠀⠀⠀⠸⣶⠀⠀⢷⣙⠓⣹⢇⠞⠁⠀⣸⡇⠀⠀⠀⠀⠀⢀⡇⢹⠀⢸⠀⠀⠀⠀⠀⢳⠀    
                                                                            ⢸⣨⠸⡇⡇⠀⠀⠹⡄⠀⠀⠀⠹⣆⠀⠀⠈⠉⠉⠁⠀⡄⠀⡟⠀⣀⡀⠀⠀⢠⠞⠀⡸⠀⠀⢆⠀⠀⠀⠀⢸⡄    
-Hobbies.Hardware: Athletics, Cycling, Volleyball, Baking, Cats             ⠀⣿⢠⢱⢻⠀⠀⠀⠹⡄⠀⠀⠀⠙⡦⢀⡀⠀⠀⠀⢰⠇⡸⠁⠉⠁⠀⣀⠔⠁⠀⢀⠇⠀⠀⣺⠀⠀⠀⡆⢸⡇   
-Hobbies.Software: Computer Sciences, Algorithms, Reading                   ⠀⡏⡾⠈⡎⡆⠀⠀⠀⠱⡄⠀⠀⢀⠘⣍⠈⢉⠲⢤⡎⡰⠥⠤⣀⣠⠚⠁⠀⠀⣸⣾⣤⣄⣀⠇⠀⡼⠟⠀⣾⠃  
+Hobbies.Hardware: Athletics, Cycling, Volleyball, Pastry make, Cats         ⣿⢠⢱⢻⠀⠀⠀⠹⡄⠀⠀⠀⠙⡦⢀⡀⠀⠀⠀⢰⠇⡸⠁⠉⠁⠀⣀⠔⠁⠀⢀⠇⠀⠀⣺⠀⠀⠀⡆⢸⡇   
+Hobbies.Software: Computer Sciences, Algorithms, Read                      ⠀⡏⡾⠈⡎⡆⠀⠀⠀⠱⡄⠀⠀⢀⠘⣍⠈⢉⠲⢤⡎⡰⠥⠤⣀⣠⠚⠁⠀⠀⣸⣾⣤⣄⣀⠇⠀⡼⠟⠀⣾⠃  
                                                                            ⠀⢳⡸⢣⠙⡽⡀⠀⠲⡀⠹⡄⡀⠈⢇⠘⢾⣶⣶⣧⣉⠀⠀⠀⠀⠹⡄⠀⢀⡴⣿⡝⢿⡿⠋⣀⡌⢀⣠⡾⠋⠀  
 ——————                                                                     ⠀⢸⠙⢤⡀⠀⠱⡄⠳⣝⢄⡸⢾⡀⠈⢳⣄⠙⠿⠟⣹⣿⣦⣄⡀⠀⠈⠶⣉⣀⣹⣿⣷⣶⣾⣿⣿⣯⠁⠀⠀ ⠀
                                                                            ⠀⠈⢧⡀⠨⢗⣢⣬⠙⢮⣛⣛⣿⣿⣦⡀⠡⠉⠒⢢⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⣿⣿⣿⡿⣫⣾⣿⣿⣷⠀⠀⠀ 
@@ -31,4 +31,4 @@ Discord: Nazarick.q                                                        ⠀�
 X: NazarickQ                                                               ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠁⠀⠀⠀⣸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀        
 LinkedIn: in/jose-parra002                                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡟⠁⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀        ⠀
 Email: joseparra8946@gmail.com                                             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       
-                                                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠁⠀⠀⠀⠀⠀⠸⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀  
+                                                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠁⠀⠀⠀⠀⠀⠸⠿
